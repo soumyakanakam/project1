@@ -1,0 +1,129 @@
+.style-header{
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+.style-section1{
+    font-size: 20px;
+}
+.style-body{
+    background-color: azure;
+}
+.style-ul1{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul2{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul3{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul4{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul5{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul6{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul7{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul8{
+    background-color: darkgrey;
+    color: white;
+}
+.style-ul9{
+    background-color: darkgray;
+    color: white;
+}
+.style-ul10{
+    background-color: darkgray;
+    color: white;
+}
+.style-p{
+    height: 500px;
+}
+.sty-p{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-A{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-PS{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-E{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-CCA{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-IS{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-IH{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.sty-LGP{
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+}
+.style-CI{
+    padding: 10px;
+    margin: 20px;
+}
+.container{
+    background-color:azure;
+    font-size: 20px;
+}
+@media screen (max-width:400px;){
+    .container{
+        background-color:orange;
+    }
+}
+@media screen(min-width:600px;){
+    .container{
+        background-color:aqua ;
+    }
+}
+@media screen(min-width:768px;){
+    .container{
+        background-color: yellowgreen;
+    }
+}
+@media screen (min-width:992;){
+    .container{
+        background-color: blue;
+    }
+}
+@media screen (min-width:1200;){
+    .container{
+        background-color:brown;
+    }
+}
+     
+
